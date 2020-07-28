@@ -1,5 +1,5 @@
 # lms-booky
-library management system, Website in ASP.NET with C# & Mysql Database
+library management system,Created using ASP.NET with C# & Mysql Database
 </br>
 <img src="f1.gif"></img>
 <img src="f2.gif"></img>
